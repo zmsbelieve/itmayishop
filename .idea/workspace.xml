@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="390689db-e7e6-4f53-a32e-4b4d6a4f0f78" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-parent/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-eurekaserver/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-common/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-api/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-member/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-message/target/" />
+    <ignored path="$PROJECT_DIR$/itmayishop-pc-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PCWebController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/controller/PCWebController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/controller/RegisterController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/MemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterMailboxProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/mq/RegisterMailboxProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/api/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/ResponseBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseApiService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseApiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseRedisService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseRedisService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringRedisTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/data/spring-data-redis/1.8.3.RELEASE/spring-data-redis-1.8.3.RELEASE-sources.jar!/org/springframework/data/redis/core/StringRedisTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/MemberServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmailService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/email/service/EmailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/adapter/MessageAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerReceive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/mq/ConsumerReceive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/MessageServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootApplication.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring.provides" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-starter-web/1.5.3.RELEASE/spring-boot-starter-web-1.5.3.RELEASE.jar!/META-INF/spring.provides">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="spring.factories" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE.jar!/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/entity/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestApiService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/TestApiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3552">
+              <caret line="148" column="20" lean-forward="true" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-boot-starter-parent-1.5.3.RELEASE.pom" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-starter-parent/1.5.3.RELEASE/spring-boot-starter-parent-1.5.3.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="172" column="60" lean-forward="true" selection-start-line="172" selection-start-column="60" selection-end-line="172" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-boot-dependencies-1.5.3.RELEASE.pom" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-dependencies/1.5.3.RELEASE/spring-boot-dependencies-1.5.3.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2232" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-boot-maven-plugin-1.5.3.RELEASE.pom" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-maven-plugin/1.5.3.RELEASE/spring-boot-maven-plugin-1.5.3.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring.provides" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-starter-activemq/1.5.3.RELEASE/spring-boot-starter-activemq-1.5.3.RELEASE.jar!/META-INF/spring.provides">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnableAutoConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JedisCommands.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4512">
+              <caret line="194" column="13" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jedis.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12360">
+              <caret line="515" column="8" selection-start-line="515" selection-start-column="8" selection-end-line="515" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/constants/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fegi</find>
+      <find>hystrix</find>
+      <find>RequestBody</find>
+      <find>action</find>
+      <find>jedis</find>
+      <find>return</find>
+      <find>instanceInfo</find>
+      <find>id</find>
+      <find>node</find>
+      <find>addInstance</find>
+      <find>getId</find>
+      <find>initScheduledTasks</find>
+      <find>registry</find>
+      <find>register</find>
+      <find>cache</find>
+      <find>ev</find>
+      <find>getInitialInstanceInfoReplicationIntervalSeconds</find>
+      <find>syncUp</find>
+      <find>predestroy</find>
+      <find>cancel</find>
+      <find>serviceUrl</find>
+      <find>Path</find>
+      <find>path</find>
+      <find>limit</find>
+      <find>activemq</find>
+      <find>redis</find>
+      <find>json</find>
+      <find>jack</find>
+      <find>encoding</find>
+      <find>spring-boot-maven</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itmayishop-eurekaserver/src/main/java/com/itmayishop/app/EurekaServer.java" />
+        <option value="$PROJECT_DIR$/itmayishop-eurekaserver/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayishop-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/ResponseBase.java" />
+        <option value="$PROJECT_DIR$/itmayishop-api/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/TestApiService.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/api/impl/TestApiServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/MemberServer.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/utils/MD5Util.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/utils/DateUtils.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseApiService.java" />
+        <option value="$PROJECT_DIR$/itmayishop-message/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/adapter/MessageAdapter.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/mq/RegisterMailboxProducer.java" />
+        <option value="$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/MessageServer.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayishop-message/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/email/service/EmailService.java" />
+        <option value="$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/mq/ConsumerReceive.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/utils/TokenUtils.java" />
+        <option value="$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/java/PCWebController.java" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/PCWebServer.java" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/fallback/MemberServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/fegin/MemberServiceFegin.java" />
+        <option value="$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/api/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseRedisService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1930" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-pc-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-pc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-pc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-pc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itmayishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itmayishop" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayishop-pc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaJavaProject\itmayishop\itmayishop-pc-web\src\main\resources\templates" />
+      <recent name="D:\ideaJavaProject\itmayishop\itmayishop-pc-web\src\main\resources\static" />
+      <recent name="D:\ideaJavaProject\itmayishop\itmayishop-message\src\main\resources" />
+      <recent name="D:\ideaJavaProject\itmayishop\itmayishop-common\src\main\java\com\itmayi\utils" />
+      <recent name="D:\ideaJavaProject\itmayishop\itmayishop-member\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MemberServer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="EurekaServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itmayishop.app.EurekaServer" />
+      <module name="itmayishop-eurekaserver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmayishop.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MemberServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itmayi.MemberServer" />
+      <module name="itmayishop-member" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmayi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MessageServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itmayi.MessageServer" />
+      <module name="itmayishop-message" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmayi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PCWebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itmyshop.PCWebServer" />
+      <module name="itmayishop-pc-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmyshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itmayishop-eurekaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayishop.app.EurekaServer" />
+    </configuration>
+    <configuration name="MemberServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itmayishop-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayi.MemberServer" />
+    </configuration>
+    <configuration name="MessageServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itmayishop-message" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayi.MessageServer" />
+    </configuration>
+    <configuration name="PCWebServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itmayishop-pc-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmyshop.PCWebServer" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServer" />
+      <item itemvalue="Spring Boot.MemberServer" />
+      <item itemvalue="Application.EurekaServer" />
+      <item itemvalue="Application.MemberServer" />
+      <item itemvalue="Application.MessageServer" />
+      <item itemvalue="Application.PCWebServer" />
+      <item itemvalue="Spring Boot.PCWebServer" />
+      <item itemvalue="Spring Boot.MessageServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MemberServer" />
+        <item itemvalue="Application.EurekaServer" />
+        <item itemvalue="Application.PCWebServer" />
+        <item itemvalue="Application.MessageServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zms\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="390689db-e7e6-4f53-a32e-4b4d6a4f0f78" name="Default" comment="" />
+      <created>1537635958564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537635958564</updated>
+      <workItem from="1537635960914" duration="2099000" />
+      <workItem from="1537705367237" duration="45513000" />
+      <workItem from="1537976070267" duration="3600000" />
+      <workItem from="1538905876333" duration="1648000" />
+      <workItem from="1538967943321" duration="22000" />
+      <workItem from="1539074390042" duration="1170000" />
+      <workItem from="1539094043470" duration="1241000" />
+      <workItem from="1539145412334" duration="15000" />
+      <workItem from="1539234439618" duration="700000" />
+      <workItem from="1539452597568" duration="100000" />
+      <workItem from="1539456538631" duration="492000" />
+      <workItem from="1540300194713" duration="1956000" />
+      <workItem from="1540391338920" duration="4867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63423000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5248538" side_tool="true" weight="0.22989276" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2602339" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30701753" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4751462" visible="true" weight="0.36260054" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297587" />
+      <window_info id="Web" order="2" sideWeight="0.8005618" side_tool="true" weight="0.30294907" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32871014" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/email/service/EmailService.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/EurekaBootStrap.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>814</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>420</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>super.renew(appName, id, isReplication)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>info.getId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>registrant.getId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gMap.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gMap.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>registrant.getAppName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="218" column="62" selection-start-line="218" selection-start-column="32" selection-end-line="218" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#29425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/尚硅谷/源码、资料、课件/代码/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/config/DruidConfig.java" />
+    <entry file="jar://D:/JDK1.8/jdk1.8.0_11/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/util/ThresholdLevelsMetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/shared/transport/decorator/EurekaHttpClientDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19032">
+          <caret line="884" column="95" selection-start-line="884" selection-start-column="95" selection-end-line="884" selection-end-column="95" />
+          <folding>
+            <element signature="e#68646#68647#0" expanded="true" />
+            <element signature="e#68698#68699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/shared/transport/EurekaHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5880">
+          <caret line="271" column="35" selection-start-line="271" selection-start-column="35" selection-end-line="271" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-client/1.6.1/eureka-client-1.6.1-sources.jar!/com/netflix/discovery/InstanceInfoReplicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/resources/InstanceResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4752">
+          <caret line="237" column="9" selection-start-line="237" selection-start-column="5" selection-end-line="237" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/com/netflix/eureka/eureka-core/1.6.1/eureka-core-1.6.1-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-eurekaserver/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/PCWebServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/utils/TokenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/api/impl/TestApiServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/fegin/MemberServiceFegin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK1.8/jdk1.8.0_11/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11328">
+          <caret line="535" column="52" selection-start-line="535" selection-start-column="52" selection-end-line="535" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisCommands.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="205" column="15" selection-start-line="205" selection-start-column="15" selection-end-line="205" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4512">
+          <caret line="194" column="13" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12360">
+          <caret line="515" column="8" selection-start-line="515" selection-start-column="8" selection-end-line="515" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-starter-activemq/1.5.3.RELEASE/spring-boot-starter-activemq-1.5.3.RELEASE.jar!/META-INF/spring.provides">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-starter-web/1.5.3.RELEASE/spring-boot-starter-web-1.5.3.RELEASE.jar!/META-INF/spring.provides">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/MemberServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/email/service/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/adapter/MessageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/MessageServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-message/src/main/java/com/itmayi/mq/ConsumerReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/api/service/TestApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/org/springframework/data/spring-data-redis/1.8.3.RELEASE/spring-data-redis-1.8.3.RELEASE-sources.jar!/org/springframework/data/redis/core/StringRedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/BaseRedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/base/ResponseBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/controller/PCWebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/mq/RegisterMailboxProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/service/api/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-pc-web/src/main/java/com/itmyshop/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-member/src/main/java/com/itmayi/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-common/src/main/java/com/itmayi/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-maven-plugin/1.5.3.RELEASE/spring-boot-maven-plugin-1.5.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-dependencies/1.5.3.RELEASE/spring-boot-dependencies-1.5.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2232" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Maven/repository/org/springframework/boot/spring-boot-starter-parent/1.5.3.RELEASE/spring-boot-starter-parent-1.5.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="172" column="60" lean-forward="true" selection-start-line="172" selection-start-column="60" selection-end-line="172" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayishop-api/itmayishop-api-member/src/main/java/com/itmayi/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3552">
+          <caret line="148" column="20" lean-forward="true" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itmayishop-eurekaserver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
